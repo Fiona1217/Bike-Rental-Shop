@@ -86,12 +86,8 @@ RENT_MENU(){
         # send to main menu
         MAIN_MENU "I have put you down for the $BIKE_INFO_FORMATTED Bike, $(echo $CUSTOMER_NAME | sed -E 's/ *$|^ *//g')."
       fi
-    
     fi
-
   fi
-  
-  #send to main menu
 }
 
 RETURN_MENU(){
@@ -154,14 +150,10 @@ RETURN_MENU(){
   fi
   fi
   fi
-
-  #send to main menu
 }
 
 EXIT(){
   echo -e '\nThank you for stopping in.\n'
 }
-
-
 
 MAIN_MENU
