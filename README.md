@@ -2,20 +2,14 @@
 This is a command-line Bike Rental Shop application that allows customers to rent and return bikes. The application manages customer and bike information using a PostgreSQL database and includes basic error handling and validation.
 
 ## Features
-### View Available Bikes:
-Customers can view available bikes listed by type and size.
-### Rent a Bike:
-Customers can select a bike to rent, and their information is recorded. Availability status is updated.
-### Return a Bike:
-Customers can return their rented bikes, and the availability status is updated accordingly.
-### User-friendly Interface:
-Provides clear instructions and prompts for customers to interact with the shop.
+- *View Available Bikes:* Customers can view available bikes listed by type and size.
+- *Rent a Bike:* Customers can select a bike to rent, and their information is recorded. Availability status is updated.
+- *Return a Bike:* Customers can return their rented bikes, and the availability status is updated accordingly.
+- *User-friendly Interface:* Provides clear instructions and prompts for customers to interact with the shop.
 
 ## Project Structure
-### bike_rental.sh
-The main bash script that controls the bike rental and return process.
-### bikes.sql
-The SQL dump file to set up the bikes PostgreSQL database with tables for bikes, customers, and rentals.
+- *bike_rental.sh* - The main bash script that controls the bike rental and return process.
+- *bikes.sql* - The SQL dump file to set up the bikes PostgreSQL database with tables for bikes, customers, and rentals.
 
 ## Key Learnings
 ### Database Design
