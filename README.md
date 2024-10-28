@@ -8,8 +8,8 @@ This project involves the creation and management of a PostgreSQL database desig
 - *User-friendly Interface:* Provides clear instructions and prompts for customers to interact with the shop.
 
 ## Project Structure
-- *bike_rental.sh* - The main bash script that controls the bike rental and return process.
-- *bikes.sql* - The SQL dump file to set up the bikes PostgreSQL database with tables for bikes, customers, and rentals.
+- `bike_rental.sh` - The main bash script that controls the bike rental and return process.
+- `bikes.sql` - The SQL dump file to set up the bikes PostgreSQL database with tables for bikes, customers, and rentals.
 
 ## Key Learnings
 ### Database Design
