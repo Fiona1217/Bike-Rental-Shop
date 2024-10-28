@@ -1,5 +1,5 @@
 # Bike-Rental-Shop 🚲
-This is a command-line Bike Rental Shop application that allows customers to rent and return bikes. The application manages customer and bike information using a PostgreSQL database and includes basic error handling and validation.
+This project involves the creation and management of a PostgreSQL database designed to handle bike rentals and customer interactions at a fictional bike rental shop. The database supports key functionalities such as renting and returning bikes, along with maintaining customer information and rental history.
 
 ## Features
 - *View Available Bikes:* Customers can view available bikes listed by type and size.
