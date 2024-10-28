@@ -25,4 +25,4 @@ Data Integrity and Accuracy: Practiced data manipulation techniques, including i
 SQL and Bash Scripting Debugging: Gained experience in identifying and resolving SQL syntax errors, unexpected values, and logical errors in scripts. Developed a keen attention to detail for troubleshooting both SQL statements and Bash logic.
 
 ### Bash Scripting
-Automation of Customer Interaction and Rental Process: Created Bash scripts that automate the main rental operations, making it easier to check available bikes, record rentals, and manage returns. This scripting improved efficiency and provided hands-on experience in combining SQL with Bash for interactive applications.
+Automation of Customer Interaction and Rental Process: Created Bash scripts that automate the main rental operations, making it easier to check available bikes, record rentals, and manage returns.
